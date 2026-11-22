@@ -1,0 +1,31 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.gregnautics.tfchorses.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "com.gregnautics.tfchorses.OptionalMixins",
+  "mixins": [
+    "BreedHorseMixin",
+    "BreedStatsAccess",
+    "HorseTamingMixin",
+    "AstikorMixin",
+    "TrottingMixin",
+    "HorsePowerMixin",
+    "BondMixin",
+    "EntityRestoreMixin",
+    "VanillaSwapMixin",
+    "IcySpawnsMixin",
+    "DonkeyGenesMixin",
+    "AnimalTooltipRegistrationMixin",
+    "ManualGaitMixin",
+    "CoreHorseshoeMenuMixin"
+  ],
+  "client": [
+    "CoreHorseshoeScreenMixin",
+    "ManualGaitControllerMixin",
+    "ManualAutodriveMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

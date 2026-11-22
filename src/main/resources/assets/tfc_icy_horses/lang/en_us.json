@@ -1,0 +1,17 @@
+{
+  "hud.tfc_icy_horses.stamina": "Horse stamina: %s%%",
+  "hud.tfc_icy_horses.exhausted": "Horse exhausted: %s%%",
+  "key.categories.tfc_icy_horses": "TFC Icy's: manual riding",
+  "key.tfc_icy_horses.gait_up": "Increase gait (no autorun)",
+  "key.tfc_icy_horses.gait_down": "Decrease gait (no autorun)",
+  "message.tfc_icy_horses.manual_gait": "Manual riding: %s",
+  "gait.tfc_icy_horses.1": "Walk",
+  "gait.tfc_icy_horses.2": "Trot / tolt",
+  "gait.tfc_icy_horses.3": "Canter",
+  "gait.tfc_icy_horses.4": "Gallop",
+  "tfc_icy_horses.tooltip.age": "Age: %s",
+  "tfc_icy_horses.age.child": "foal",
+  "tfc_icy_horses.age.adult": "adult",
+  "tfc_icy_horses.age.old": "old",
+  "config.jade.plugin_tfc_icy_horses.husbandry": "Icy’s horses: TFC husbandry"
+}

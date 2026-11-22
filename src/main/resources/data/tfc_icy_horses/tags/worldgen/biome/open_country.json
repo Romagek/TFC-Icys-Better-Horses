@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:rift_valley",
+    "tfc:cenote_hills",
+    "tfc:ancient_shield_volcano",
+    "tfc:ice_sheet_shield_volcano",
+    "tfc:plains",
+    "tfc:cenote_plains",
+    "tfc:tower_karst_plains",
+    "tfc:drumlins",
+    "tfc:extinct_shield_volcano",
+    "tfc:hills",
+    "tfc:cenote_rolling_hills",
+    "tfc:doline_hills",
+    "tfc:dormant_shield_volcano",
+    "tfc:doline_plains",
+    "tfc:active_shield_volcano",
+    "tfc:doline_rolling_hills",
+    "tfc:sunken_shield_volcano",
+    "tfc:glaciated_shield_volcano",
+    "tfc:burren_plains",
+    "tfc:shilin_hills",
+    "tfc:lowlands",
+    "tfc:rolling_hills",
+    "tfc:tower_karst_hills",
+    "tfc:shilin_plains"
+  ]
+}

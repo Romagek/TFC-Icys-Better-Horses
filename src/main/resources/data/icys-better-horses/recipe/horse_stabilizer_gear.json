@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " S ",
+    "CLC",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "tfc:metal/sheet/steel"
+    },
+    "C": {
+      "item": "icys-better-horses:canister"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "icys-better-horses:horse_stabilizer_gear",
+    "count": 1
+  }
+}

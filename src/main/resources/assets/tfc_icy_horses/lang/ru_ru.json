@@ -1,0 +1,17 @@
+{
+  "hud.tfc_icy_horses.stamina": "Выносливость лошади: %s%%",
+  "hud.tfc_icy_horses.exhausted": "Лошадь устала: %s%%",
+  "key.categories.tfc_icy_horses": "TFC Icy’s: ручная езда",
+  "key.tfc_icy_horses.gait_up": "Повысить аллюр (без автобега)",
+  "key.tfc_icy_horses.gait_down": "Понизить аллюр (без автобега)",
+  "message.tfc_icy_horses.manual_gait": "Ручная езда: %s",
+  "gait.tfc_icy_horses.1": "Шаг",
+  "gait.tfc_icy_horses.2": "Рысь / тёльт",
+  "gait.tfc_icy_horses.3": "Кентер",
+  "gait.tfc_icy_horses.4": "Галоп",
+  "tfc_icy_horses.tooltip.age": "Возраст: %s",
+  "tfc_icy_horses.age.child": "жеребёнок",
+  "tfc_icy_horses.age.adult": "взрослая лошадь",
+  "tfc_icy_horses.age.old": "старая лошадь",
+  "config.jade.plugin_tfc_icy_horses.husbandry": "Лошади Icy’s: параметры TFC"
+}

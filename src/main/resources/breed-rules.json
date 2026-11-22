@@ -1,0 +1,167 @@
+[
+  {
+    "entity": "icys-better-horses:icelandic_horse",
+    "minTemperature": -15,
+    "maxTemperature": 8,
+    "minRainfall": 100,
+    "maxRainfall": 500,
+    "weight": 12,
+    "biomes": [
+      "#tfc_icy_horses:uplands"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:haflinger_horse",
+    "minTemperature": -8,
+    "maxTemperature": 16,
+    "minRainfall": 100,
+    "maxRainfall": 450,
+    "weight": 9,
+    "biomes": [
+      "#tfc_icy_horses:uplands"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:friesian_horse",
+    "minTemperature": 3,
+    "maxTemperature": 19,
+    "minRainfall": 220,
+    "maxRainfall": 500,
+    "weight": 7,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:shire_horse",
+    "minTemperature": 0,
+    "maxTemperature": 18,
+    "minRainfall": 180,
+    "maxRainfall": 500,
+    "weight": 5,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:clydesdale_horse",
+    "minTemperature": -3,
+    "maxTemperature": 16,
+    "minRainfall": 180,
+    "maxRainfall": 500,
+    "weight": 5,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:belgian_horse",
+    "minTemperature": 4,
+    "maxTemperature": 22,
+    "minRainfall": 150,
+    "maxRainfall": 450,
+    "weight": 6,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:percheron_horse",
+    "minTemperature": 1,
+    "maxTemperature": 21,
+    "minRainfall": 130,
+    "maxRainfall": 400,
+    "weight": 6,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:thoroughbred_horse",
+    "minTemperature": 8,
+    "maxTemperature": 25,
+    "minRainfall": 130,
+    "maxRainfall": 400,
+    "weight": 5,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:andalusian_horse",
+    "minTemperature": 12,
+    "maxTemperature": 30,
+    "minRainfall": 60,
+    "maxRainfall": 260,
+    "weight": 8,
+    "biomes": [
+      "#tfc_icy_horses:dry_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:arabian_horse",
+    "minTemperature": 18,
+    "maxTemperature": 40,
+    "minRainfall": 0,
+    "maxRainfall": 180,
+    "weight": 12,
+    "biomes": [
+      "#tfc_icy_horses:dry_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:quarter_horse",
+    "minTemperature": 7,
+    "maxTemperature": 30,
+    "minRainfall": 40,
+    "maxRainfall": 260,
+    "weight": 9,
+    "biomes": [
+      "#tfc_icy_horses:dry_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:american_paint_horse",
+    "minTemperature": 3,
+    "maxTemperature": 28,
+    "minRainfall": 60,
+    "maxRainfall": 300,
+    "weight": 9,
+    "biomes": [
+      "#tfc_icy_horses:dry_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:appaloosa_horse",
+    "minTemperature": -5,
+    "maxTemperature": 22,
+    "minRainfall": 70,
+    "maxRainfall": 320,
+    "weight": 9,
+    "biomes": [
+      "#tfc_icy_horses:dry_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:morgan_horse",
+    "minTemperature": -5,
+    "maxTemperature": 24,
+    "minRainfall": 120,
+    "maxRainfall": 450,
+    "weight": 9,
+    "biomes": [
+      "#tfc_icy_horses:open_country"
+    ]
+  },
+  {
+    "entity": "icys-better-horses:mustang_horse",
+    "minTemperature": -15,
+    "maxTemperature": 40,
+    "minRainfall": 0,
+    "maxRainfall": 500,
+    "weight": 3,
+    "biomes": [
+      "#tfc_icy_horses:dry_country"
+    ]
+  }
+]

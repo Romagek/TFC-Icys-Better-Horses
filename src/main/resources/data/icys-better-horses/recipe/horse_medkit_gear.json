@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "WWW",
+    "SGS",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "tfc:wool_cloth"
+    },
+    "S": {
+      "item": "tfc:silk_cloth"
+    },
+    "G": {
+      "item": "tfc:glue"
+    }
+  },
+  "result": {
+    "id": "icys-better-horses:horse_medkit_gear",
+    "count": 1
+  }
+}
